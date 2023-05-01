@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/net-np-sc/static/css/main.1a4a2aaa.css",
+    "main.js": "/net-np-sc/static/js/main.85ce3221.js",
+    "index.html": "/net-np-sc/index.html",
+    "main.1a4a2aaa.css.map": "/net-np-sc/static/css/main.1a4a2aaa.css.map",
+    "main.85ce3221.js.map": "/net-np-sc/static/js/main.85ce3221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a4a2aaa.css",
+    "static/js/main.85ce3221.js"
+  ]
+}
